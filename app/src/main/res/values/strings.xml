@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQL_Lab4</string>
+    <string name="CustomerName">Customer Name</string>
+    <string name="CustomerAge">Age</string>
+    <string name="ActiveCustomer">Active Customer</string>
+    <string name="ActiveStudent">Active Student</string>
+    <string name="StudentName">Student Name</string>
+</resources>
